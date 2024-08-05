@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: #ffeeaa;
+  font-family: "Sono", monospace;
+  font-size: 1.25em;
+}
+
+h1, h2 {
+  font-family: "Playwrite CZ", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 1em;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 6em;
+}
+
+a {
+  text-decoration: underline;
+  color: #840;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 3em;
+}
+
+.container {
+  width: 80%;
+  width: 40em;
+  margin: auto;
+}
+
+.heading {
+  margin-bottom: 5em;
+}
