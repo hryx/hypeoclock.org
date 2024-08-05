@@ -27,6 +27,10 @@ h2 {
   font-size: 3em;
 }
 
+p {
+  margin-top: 3em;
+}
+
 .container {
   width: 80%;
   width: 40em;
